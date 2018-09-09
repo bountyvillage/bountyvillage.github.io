@@ -1,14 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Bounty Village
+author: admin
+email: info@bountyvillage.org
 description: > # this means to ignore newlines until "twitter_username:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An organisation founded with a passion to create a safer and better internet space for Myanmar. 
+  This crowdsourced security platform creates a meet-up place for the companies with the hacker community to surface and tackle the vulnerabilities together.
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: bountyvillage
+facebook_username: bountyvillage
 rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
