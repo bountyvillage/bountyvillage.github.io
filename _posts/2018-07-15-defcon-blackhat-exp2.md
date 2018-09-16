@@ -94,8 +94,6 @@ Hardware hacking လုပ္တဲ႔ေနရာ-
 
 ေတာ္လဲတစ္ကယ္ကုိေတာ္ပါတယ္။ သူ႔ရဲ႕ findings ေတြဆုိ fuzzing လုပ္ျပီးရွာရင္ေတာင္ edge cases ေတြမွာမွမိႏုိင္တဲ႔ security bug ေတြမ်ားပါတယ္။ အဲ႔ CTF ျပိဳင္ပြဲမွာ windows binary challenge တစ္ခုကုိ debugger ေတာင္မသံုးသြားဘဲ exploit ေရးသြားတယ္ဆုိျပီးလဲနာမည္ၾကီးပါတယ္။ တစ္ကယ္လဲ အဲ႔ DEFKOR team တစ္ခုလံုးမွာ သူတစ္ေယာက္ထဲ challenges ေတြရဲ႕အားနည္းခ်က္ေတြကုိလုိက္ရွာတာျဖစ္ျပီး က်န္တဲ႔သူေတြကသူ႔ကုိ support လုိက္လုပ္ေပးရုံပါဘဲ။ ကၽြန္ေတာ္ကလဲ သူ႔ fan ဆိုေတာ႔ သြားျပီး စကားသြားေျပာရင္းသူဘယ္လုိ security bugs ေတြလုိက္ရွာလဲဆုိတာေမးေတာ႔ သူအရင္ကေတာ႔ fuzzers ေတြေရးတယ္တဲ႔ ေနာက္ေတာ႔ manually ဘဲလုိက္ၾကည္႔ လုိက္ရွာတာတဲ႔။ ေတာ္တဲ႔သူေတြက်အဲ႔လုိကုိေတာ္တာပါ။ ဒါကသူတုိ႔ team ရဲ႕ CTF final ကုိဘယ္လုိပံုမ်ိဳးလုပ္ခဲ႔တယ္ဆုိတာကုိျပန္ေျပာတဲ႔ presentation ပါ။
 
-[![](http://img.youtube.com/vi/UzUzC-G9ReM/0.jpg)](https://www.youtube.com/watch?v=UzUzC-G9ReM)
-
 [https://www.youtube.com/watch?v=UzUzC-G9ReM](https://www.youtube.com/watch?v=UzUzC-G9ReM)
 
 အဲ႔ team ၂ခု ကဘဲနာမည္ၾကီးေတြပါတာလားဆုိေတာ႔ မဟုတ္ပါဘူး။ က်န္တဲ႔ teams ေတြ Dragon Sector, Eat Sleep Pwn Repeat, HITCON, Shellphish, !SpamAndHex, blue-lotus, Samurai အစရွိတဲ႔ CTF လာျပိဳင္တဲ႔ team ေတြကလဲတစ္ကယ္႔ကုိအစဥ္အလာနဲ႔ ဆရာၾကီးေတြၾကီးနဲ႔ဘဲဖြဲ႕ထားတာပါ။ ေနာက္မွအက်ယ္ခ်ဲ႔ျပီးထပ္ေရးရင္ေရးၾကည္႔မယ္ သူတို႔ေတြဘယ္လုိ train ျပီး ဘယ္လုိ team ကုိ manage လုပ္လဲဆုိတာ။
@@ -113,8 +111,6 @@ CTF organiser ေတြနဲ႔ေလကန္ရင္းနဲ႔ သူတ�
 ကၽြန္ေတာ္သြားတဲ႔ဒုတိယအေခါက္မွာက [Cyber Grand Challenge](https://en.wikipedia.org/wiki/2016_Cyber_Grand_Challenge) နဲ႔သြားၾကံဳေတာ႔ အဲ႔မွာသြားထုိင္ေနျဖစ္တဲ႔အခ်ိန္လဲမ်ားပါတယ္။ အဲ႔ဒါကေတာ႔ Defense Advanced Research Projects Agency (DARPA) ကေနက်င္းပတဲ႔ machines ေတြၾကီးဘဲ ျပိဳင္တဲ႔ ျပိဳင္ပြဲတစ္ခုျဖစ္ျပီး အဲ႔ဒီ machines ေတြက automatically software security အားနည္းခ်က္ေတြကုိရွာကာ “proof of vulnerability” (PoV) ထုတ္ေပးျပီး တစ္ခါထဲအဲ႔ အားနညး္ခ်က္ကုိ patch လုပ္ရပါတယ္။ CGC ျပိဳင္ပြဲတစ္ခုလံုးကုိရွင္းရင္ေတာ႔အရမ္းရွည္မွာစုိးလုိ႔ စိတ္ဝင္စားရင္ဒါေလးေတြလုိက္ၾကည္႔ ဖတ္ၾကည္႔လုိ႔ရပါတယ္။
 
 [https://github.com/CyberGrandChallenge/cgc-release-documentation](https://github.com/CyberGrandChallenge/cgc-release-documentation)
-
-[![](http://img.youtube.com/vi/n0kn4mDXY6I/0.jpg)](https://www.youtube.com/watch?v=n0kn4mDXY6I)
 
 [https://www.youtube.com/watch?v=n0kn4mDXY6I](https://www.youtube.com/watch?v=n0kn4mDXY6I)
 
