@@ -10,14 +10,37 @@ author: "kha"
 Las Vegas weather ကေတာ႔အရမး္ပူျပီး dry ျဖစ္တဲ႔အတြက္ဘယ္ေနရာသြားသြားေရဘူးေလးေဆာင္ထားဖုိ႔အၾကံေပးလုိပါတယ္။ Conferences ေတြမွာအလကားေပးတဲ႔ ေရနဲ႔ျပန္လုိက္ျဖည္႔ဖုိ႔ေတာ႔လုိမွာေပါ႔။
 
 DEF CON ေကာ Black Hat ေကာမစခင္ႏွစ္ပတ္ေက်ာ္ေလာက္ထဲကစျပီး ဘယ္လုိ parties ေတြ events ေတြ gatherings ေတြလုပ္မယ္ဆုိတာၾကိဳတင္ေၾကာ္ျငာေလ႔ရွိကာ public ကုိဖြင္႔ေပးထားတာမ်ိဳးေလးေတြဆုိရင္ကုိယ္႔အတြက္ ticket ရေအာင္ၾကိဳျပီး register လုပ္ထားသင္႕ပါတယ္။ အျပင္ကုိမဖြင္႔ေပးထားတာမ်ိဳးေတြက် invite လုပ္မွသြား join လုိ႔ရပါတယ္။ ဥပမာ Google ကလုပ္တဲ႔ 0x0G, Amazon ကလုပ္တဲ႔ pool party လုိမ်ိဳးေတြေပါ႔။
-![](/assets/g0x0g.jpg) <!-- .element height="50%" width="50%" -->
+
+![](/assets/g0x0g.jpg)
 တစ္ခ်ိဳ႔ parties ေတြ events ေတြကလဲ ေန႔စဥ္ conference ျပီးတဲ႔အခ်ိန္မ်ိဳးေလာက္ေတြမွာ ပြဲစေလ႔ရွိျပီး free flow drinks ေတြလဲပါပါတယ္။
 
 ပံုမွန္အားျဖင္႔ DEF CON ပထမဆံုးစတဲ႔ေန႔က Black Hat USA ရဲ႕ေနာက္ဆံုးေန႔ျဖစ္ပါတယ္။ အဲ႔ေန႔မတုိင္ခင္ညထဲက DC conference အတြက္ register အေစာဆံုးလုပ္ဖုိ႔ လာျပီးတန္းစီေနၾကပါျပီ။ ကၽြန္ေတာ္အစကမသိေတာ႔မနက္မွေအးေအးေဆးေဆးထသြားတာ တန္းကအရမ္းအရမ္းကုိရွည္ေနပါျပီ။ ဒါကေတာ႔တန္းစီေနတုန္းကရုိက္ထားတာပါ။
-![](/assets/q.jpg) <!-- .element height="50%" width="50%" -->
+
+![](/assets/q.jpg)
 တစ္ခုအဆင္ေျပသြားတာက registration booths ေတြကမ်ားေတာ႔အရမး္ၾကီးေတာ႔မၾကာပါဘူးတန္းစီရတာ။ စီေနတံုးမွာေတာ႔ ေနာက္ကလူေရွ႕ကလူေတြနဲ႔ေလကန္ရင္းနဲ႔မိတ္ေဆြဖြဲ႕ပါတယ္။ သူတု႔ိဆီကမွတစ္ျခားကုိယ္မသိေသးတဲ႔ စိတ္ဝင္စားစရာေကာင္းမယ္႔ events တုိ႔ဘာတုိ႔ရွိတာေတြထပ္သိရပါတယ္။
 
 တစ္ခ်ိဳ႔ေသာသူေတြဘာလုိ႔အေစာၾကီးညထဲကေတြတန္းစီျပီး အေစာဆံုး register လုပ္ခ်င္တာလဲဆိုတာကလဲအေၾကာင္းရင္းေတြရွိပါတယ္။ Register လုပ္တဲ႔ခါ cash (USD 200 ေက်ာ္ေလာက္) နဲ႔ေပးရျပီး badge နဲ႔တစ္ျခား conference အတြင္းလုိအပ္မဲ႔ အေၾကာင္းေတြေရးထားတဲ႔ booklets ေတြ CDs ေတြ stickers ေတြထုတ္ေပးပါတယ္။ အဓိကအေရးအၾကီးဆံုးကေတာ႔ Badge ပါ။ သူကတစ္ႏွစ္ကုိတစ္ခါေျပာငး္ပါတယ္ ဒီႏွစ္က electronic badge ဆုိရင္ေနာက္ႏွစ္က်ေနာက္တစ္မ်ိဳးပါ။ တစ္ခ်ိဳ႔ေသာသူေတြက conference ကုိလာတာ အဲ႔ badge အတြင္းမွာပါတဲ႔ challenge ကုိလာျပီး solve လုပ္မဲ႔ရည္ရြယ္ခ်က္နဲ႔ကုိလာတာပါ။ အဲ႔ဒါေၾကာင္႔လဲသူတုိ႔အေစာဆံုး badge ကုိရျပီး challenge ကုိ solve လုပ္ခ်င္လုိ႔အေစာဆံုး လာျပီးတန္းစီၾကတာဘဲျဖစ္ပါတယ္။
 
 ဒါေလးေတြကေတာ႔ကၽြန္ေတာ္သြားခဲ႔ႏွစ္ႏွစ္အတြက္ေပးတဲ႔ badge ေတြျဖစ္ပါတယ္။
-![](/assets/badge1_f.jpg) <!-- .element height="50%" width="50%" -->
+
+![](/assets/badge1_f.jpg)
+![](/assets/badge1_b.jpg)
+![](/assets/badge2_f.jpg)
+![](/assets/badge2_b.jpg)
+
+ဘယ္လုိမ်ိဳး challenges ေတြလဲ ဘယ္လုိေျဖရွငး္လဲဆုိတာေတာ႔ေအာက္က links ေတြမွာသြားၾကည္႔ႏုိင္ပါတယ္။
+[http://potatohatsecurity.tumblr.com/post/126411303994/defcon-23-badge-challenge](http://potatohatsecurity.tumblr.com/post/126411303994/defcon-23-badge-challenge)
+[http://co9.io/post/148716614744/defcon-24-badge-challenge](http://co9.io/post/148716614744/defcon-24-badge-challenge)
+
+Conference ေနရာတကာမွာ hints ေတြထားထားျပီး ေပးတဲ႔ lanyards ေတြကအစအသံုးခ်မွ solve လုပ္ႏိုင္မဲ႔ challenges ေတြဘဲျဖစ္ပါတယ္။ အခ်ိဳ႔ဆုိအဲ႔ badge challenge ဘဲထုိင္လုပ္ေနျပီးဘယ္မွကုိမသြားေတာ႔ပါဘူး။ ဒါေတြကေတာ႔ lanyards ေတြပါ။
+
+![](/assets/lan1.jpg)
+![](/assets/lan2.jpg)
+
+ဒါေတြကေတာ႔ conference အတြက္ information အျပည္႔အစံုပါတဲ႔ fancy booklets, CDs, နဲ႔အခ်ိဳ႔ပါဝင္တဲ႔အေၾကာငး္အရာေတြပါ။
+![](/assets/IMG_4842.jpg)
+![](/assets/cgc.jpg)
+![](/assets/IMG_4846.jpg)
+![](/assets/content.jpg)
+![](/assets/lost.jpg)
+![](/assets/IMG_4847.jpg)
